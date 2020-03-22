@@ -1,5 +1,5 @@
 # LoopyLevyFlights
-Simulation code to reproduce the results in arXiv:1906.00608
+Simulation code to reproduce the results in Nature volume 579, pages364–367(2020)
 
 
 To compile:
